@@ -2,7 +2,10 @@
 
 [👉 Click Here to View My Visual Case Study Portfolio on Maven Analytics](https://mavenshowcase.com/project/57099)
 
-## 📌 Project Overview - CEo Dashboard
+<img width="1442" height="844" alt="CEO Dashboard" src="https://github.com/user-attachments/assets/cb2f9b5a-d58e-4385-b278-2c96d70b98c1" />
+
+## 📌 Project Overview - CEO Dashboard
+
 An executive-level Power BI business intelligence solution built in Sleek Dark Mode. This dashboard transforms raw, multi-table platform logs into actionable analytics regarding subscriber engagement, content catalog expansion, and streaming performance metrics.
 
 ## 🛠️ Tech Stack & Advanced Data Skills
