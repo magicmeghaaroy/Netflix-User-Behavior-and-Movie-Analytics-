@@ -44,4 +44,17 @@ Avg Completion Rate = DIVIDE(AVERAGE(watch_history[progress_percentage]), 100, 0
 * **Interactive Navigation:** Designed an integrated dark mode slicer layout panel optimizing user query drilling down across specific genres and core language matrices seamlessly.
 
 ---
+
+
+## 🎬 Page 2: Content Performance & Sentiment Analysis
+This view equips content acquisition teams with clear data to evaluate library stickiness and viewer reception.
+
+<img width="1471" height="853" alt="image" src="https://github.com/user-attachments/assets/002f3786-ff9f-4304-8371-6b0e1e6639da" />
+
+### Key Metrics & Advanced Visualizations Modeled:
+* **Audience Quality Matrix (Scatter Plot):** Correlates `Total Viewers` against `Completion Rate` per title. This instantly separates core global hits (top-right quadrant) from niche engagement drivers or clickbait drops.
+* **Granular Financial & Rating Audit Grid:** A unified data layout table tracking titles alongside production budgets, box office revenues, and specific platform score averages.
+* **Dynamic Slicer Panels:** Fully functional slicing logic allowing real-time data drilling across explicit film genres and global languages seamlessly.
+
+
 *Developed by magicmeghaaroy as part of a professional BI engineering portfolio project.*
